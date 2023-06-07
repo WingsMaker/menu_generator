@@ -16,3 +16,5 @@ https://wingsmaker.github.io/Github/menu_generator.html
 ![HTML Export](https://user-images.githubusercontent.com/32192638/162555527-1193e77e-eaa8-422c-add3-9453e1c182e1.png)
 
 
+See also:
+https://wingsmaker.github.io/Github/menu_editor.html
